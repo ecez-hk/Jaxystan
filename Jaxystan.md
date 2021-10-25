@@ -7,4 +7,5 @@ Welcome to Jaxystan! Soft-copies of update-logs and important milestones and ann
 [Test Build e-001.5]
 
 
-[Jaxistan](https://user-images.githubusercontent.com/93024949/138681016-78b0a678-0f3e-4393-a7f0-b4665979d999.gif)
+![Jaxistan](https://user-images.githubusercontent.com/93024949/138681339-6cf5ab80-bb60-459e-bc98-3128e704c88f.gif)
+
